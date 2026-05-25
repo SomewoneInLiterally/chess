@@ -1,3 +1,3 @@
-# chess
+# chess2
 just a normal chess.
 for now...
